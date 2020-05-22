@@ -1,2 +1,2 @@
-# collision-algorithm
-collision algorithm made by me.
+# p5.play-boilerplate
+Boiler plate for p5.play
